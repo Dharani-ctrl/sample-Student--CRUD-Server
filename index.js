@@ -6,7 +6,7 @@ require('dotenv').config();
 
 // Import external files
 
-const studentRoutes = require('./Routes/studentRoutes')
+// const studentRoutes = require('./Routes/studentRoutes')
 // server app express to  start
 const app= express();
 
